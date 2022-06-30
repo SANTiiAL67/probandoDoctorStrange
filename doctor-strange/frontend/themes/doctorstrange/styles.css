@@ -1,0 +1,680 @@
+@import url('https://fonts.googleapis.com/css2?family=Patrick+Hand+SC&display=swap');
+ html {
+ color:white;
+background-color:black;
+font-family: 'Patrick Hand SC', cursive;  }
+
+.main{
+       background-image: url("https://i.ibb.co/ncNVwHc/bgMain.jpg");
+       background-repeat: no-repeat;
+       background-size: contain;
+       background-color:black;
+       background-position: center;
+}
+.btnIniciar{
+margin-bottom: 4%;
+}
+.escenarioview{
+margin-top: 3%;
+}
+.base{
+margin-top: 5%;
+margin-left: 5%;
+margin-right: 5%;
+}
+.tituloEscenario{
+font-size: 30px;
+}
+
+.btnMenu1{
+color:black;
+background-color:orange;
+font-size:26px;
+width:110px;
+height:42px;
+border-radius:2px;
+
+}
+
+.btnMenu2{
+color:black;
+background-color:orange;
+font-size:26px;
+width:140px;
+height:42px;
+border-radius:2px;
+}
+
+.btnMenu3{
+color:black;
+background-color:orange;
+font-size:26px;
+width:80px;
+height:42px;
+border-radius:2px;
+}
+
+.btnMenu1:hover{
+text-decoration: none;
+font-size:28px;
+width:112px;
+height:44px;
+}
+
+.btnMenu2:hover{
+text-decoration: none;
+font-size:28px;
+width:142px;
+height:44px;
+}
+
+.btnMenu3:hover{
+text-decoration: none;
+font-size:28px;
+width:82px;
+height:44px;
+}
+
+.menu{
+       color:black;
+       background-image: url("https://i.ibb.co/0hgZ50V/menu.jpg");
+       background-repeat: no-repeat;
+       background-size: cover;
+       background-color:black;
+       background-position: center;
+}
+
+
+.costePersonaje{
+
+color:green;
+         margin-top:10%;
+          font-size:50px;
+          width:100%;
+          text-align:center;
+}
+
+.costePersonaje2{
+color:green;
+         margin-top:10%;
+          font-size:50px;
+          width:100%;
+          text-align:center;
+}
+
+.btnDoc{
+     max-width:50px ;
+          min-width:50px  ;
+          width:50px ;
+          max-height:80px ;
+          min-height:80px ;
+          height:80px ;
+       background-image:url(https://i.ibb.co/VqPg2L4/2.jpg);
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+       background-color:orange;
+       cursor: pointer;
+}
+.btnThor{
+       background-image:url(https://i.ibb.co/TLbgj7F/9.jpg);
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+  max-width:50px ;
+          min-width:50px  ;
+          width:50px ;
+          max-height:80px ;
+          min-height:80px ;
+          height:80px ;
+       background-color:orange;
+       cursor: pointer;
+}
+.btnSpider{
+      background-image:url(https://i.ibb.co/NW8bpdn/8.jpg);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+    max-width:50px ;
+            min-width:50px  ;
+            width:50px ;
+            max-height:80px ;
+            min-height:80px ;
+            height:80px ;
+      background-color:orange;
+      cursor: pointer;
+}
+.btnWol{
+       background-image:url(https://i.ibb.co/Y7FZqd1/11.jpg);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+   max-width:50px ;
+           min-width:50px  ;
+           width:50px ;
+           max-height:80px ;
+           min-height:80px ;
+           height:80px ;
+      background-color:orange;
+      cursor: pointer;
+}
+.btnDead{
+      background-image:url(https://i.ibb.co/DYXG8kD/3.jpg);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+  max-width:50px ;
+          min-width:50px  ;
+          width:50px ;
+          max-height:80px ;
+          min-height:80px ;
+          height:80px ;
+      background-color:orange;
+      cursor: pointer;
+}
+.btnCapi{
+       background-image:url(https://i.ibb.co/jkWMZFm/image.jpg);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+       max-width:50px ;
+               min-width:50px  ;
+               width:50px ;
+               max-height:80px ;
+               min-height:80px ;
+               height:80px ;
+      background-color:orange;
+      cursor: pointer;
+}
+.btnLoki{
+     background-image:url(https://i.ibb.co/6PGqsmz/6.jpg);
+     background-position: center;
+     background-repeat: no-repeat;
+     background-size: cover;
+      max-width:50px ;
+              min-width:50px  ;
+              width:50px ;
+              max-height:80px ;
+              min-height:80px ;
+              height:80px ;
+     background-color:orange;
+     cursor: pointer;
+}
+.btnPunish{
+      background-image:url(https://i.ibb.co/GFW4BHW/10.jpg);
+      background-position: center;
+      background-repeat: no-repeat;
+      background-size: cover;
+  max-width:50px ;
+          min-width:50px  ;
+          width:50px ;
+          max-height:80px ;
+          min-height:80px ;
+          height:80px ;
+      background-color:orange;
+      cursor: pointer;
+}
+.btnPanther{
+       background-image:url(https://i.ibb.co/9VYX3jz/7.jpg);
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+     max-width:50px ;
+             min-width:50px  ;
+             width:50px ;
+             max-height:80px ;
+             min-height:80px ;
+             height:80px ;
+       background-color:orange;
+       cursor: pointer;
+}
+.btnCapMar{
+       background-image:url(https://i.ibb.co/JksnJFK/1.jpg);
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+    max-width:50px ;
+            min-width:50px  ;
+            width:50px ;
+            max-height:80px ;
+            min-height:80px ;
+            height:80px ;
+       background-color:orange;
+       cursor: pointer;
+}
+.btnHulk{
+       background-image:url(https://i.ibb.co/HVstkqS/4.jpg);
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+   max-width:50px ;
+           min-width:50px  ;
+           width:50px ;
+           max-height:80px ;
+           min-height:80px ;
+           height:80px ;
+       background-color:orange;
+       cursor: pointer;
+}
+.btnIron{
+       background-image:url(https://i.ibb.co/hWMprvW/5.jpg);
+       background-position: center;
+       background-repeat: no-repeat;
+       background-size: cover;
+  max-width:50px ;
+          min-width:50px  ;
+          width:50px ;
+          max-height:80px ;
+          min-height:80px ;
+          height:80px ;
+       background-color:orange;
+       cursor: pointer;
+}
+
+
+.btnDoc:hover{
+-o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+  box-shadow: 2px 4px 6px #FDFFEC;
+}
+.btnThor:hover{
+-o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+  box-shadow: 2px 4px 6px #FDFFEC;
+}
+.btnSpider:hover{
+-o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+  box-shadow: 2px 4px 6px #FDFFEC;
+}
+.btnWol:hover{
+-o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+  box-shadow: 2px 4px 6px #FDFFEC;
+}
+.btnDead:hover{
+-o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+  box-shadow: 2px 4px 6px #FDFFEC;
+}
+.btnCapi:hover{
+-o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+  box-shadow: 2px 4px 6px #FDFFEC;
+}
+.btnLoki:hover{
+-o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+  box-shadow: 2px 4px 6px #FDFFEC;
+}
+.btnPunish:hover{
+-o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+  box-shadow: 2px 4px 6px #FDFFEC;
+}
+.btnPanther:hover{
+-o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+  box-shadow: 2px 4px 6px #FDFFEC;
+}
+.btnCapMar:hover{
+-o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+  box-shadow: 2px 4px 6px #FDFFEC;
+}
+.btnHulk:hover{
+-o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+  box-shadow: 2px 4px 6px #FDFFEC;
+}
+.btnIron:hover{
+-o-transition:.5s;
+  -ms-transition:.5s;
+  -moz-transition:.5s;
+  -webkit-transition:.5s;
+  transition:.5s;
+  box-shadow: 2px 4px 6px #FDFFEC;
+}
+
+
+
+.btnDoc:active{
+width:73px;
+-o-transition:.1s;
+  -ms-transition:.1s;
+  -moz-transition:.1s;
+  -webkit-transition:.1s;
+  transition:.1s;
+  box-shadow: 2px 2px 20px white;
+}
+.btnThor:active{
+   width:73px;
+  -o-transition:.1s;
+  -ms-transition:.1s;
+  -moz-transition:.1s;
+  -webkit-transition:.1s;
+  transition:.1s;
+  box-shadow: 2px 2px 20px white;
+}
+.btnSpider:active{
+   width:73px;
+  -o-transition:.1s;
+  -ms-transition:.1s;
+  -moz-transition:.1s;
+  -webkit-transition:.1s;
+  transition:.1s;
+  box-shadow: 2px 2px 20px white;
+}
+.btnWol:active{
+   width:73px;
+  -o-transition:.1s;
+  -ms-transition:.1s;
+  -moz-transition:.1s;
+  -webkit-transition:.1s;
+  transition:.1s;
+  box-shadow: 2px 2px 20px white;
+}
+.btnDead:active{
+   width:73px;
+  -o-transition:.1s;
+  -ms-transition:.1s;
+  -moz-transition:.1s;
+  -webkit-transition:.1s;
+  transition:.1s;
+  box-shadow: 2px 2px 20px white;
+}
+.btnCapi:active{
+   width:73px;
+  -o-transition:.1s;
+  -ms-transition:.1s;
+  -moz-transition:.1s;
+  -webkit-transition:.1s;
+  transition:.1s;
+  box-shadow: 2px 2px 20px white;
+}
+.btnLoki:active{
+   width:73px;
+  -o-transition:.1s;
+  -ms-transition:.1s;
+  -moz-transition:.1s;
+  -webkit-transition:.1s;
+  transition:.1s;
+  box-shadow: 2px 2px 20px white;
+}
+.btnPunish:active{
+   width:73px;
+  -o-transition:.1s;
+  -ms-transition:.1s;
+  -moz-transition:.1s;
+  -webkit-transition:.1s;
+  transition:.1s;
+  box-shadow: 2px 2px 20px white;
+}
+.btnPanther:active{
+   width:73px;
+  -o-transition:.1s;
+  -ms-transition:.1s;
+  -moz-transition:.1s;
+  -webkit-transition:.1s;
+  transition:.1s;
+  box-shadow: 2px 2px 20px white;
+}
+.btnCapMar:active{
+   width:73px;
+  -o-transition:.1s;
+  -ms-transition:.1s;
+  -moz-transition:.1s;
+  -webkit-transition:.1s;
+  transition:.1s;
+  box-shadow: 2px 2px 20px white;
+}
+.btnHulk:active{
+   width:73px;
+  -o-transition:.1s;
+  -ms-transition:.1s;
+  -moz-transition:.1s;
+  -webkit-transition:.1s;
+  transition:.1s;
+  box-shadow: 2px 2px 20px white;
+}
+.btnIron:active{
+   width:73px;
+  -o-transition:.1s;
+  -ms-transition:.1s;
+  -moz-transition:.1s;
+  -webkit-transition:.1s;
+  transition:.1s;
+  box-shadow: 2px 2px 20px white;
+}
+
+
+
+
+
+.j1p2p3{
+  margin-left:55%;
+}
+
+.j2p2p3{
+margin-right:55%;
+}
+
+.personaje-view{
+       width:100%;
+       height:100%;
+       justify-content: center;
+       align-items: center;
+}
+
+.txt2{
+       font-size:40px;
+       width:100%;
+       margin-left:90%;
+}
+
+
+.txt{
+      font-size:56px;
+
+}
+
+.x{
+
+font-size:26px;
+}
+
+.nombreP1{
+border-radius:5px;
+position:relative;
+background-color: rgba(235, 20, 28, 0.4);
+ width:100%;
+ font-size:16px;
+ text-align:center;
+ text-overflow: clip;
+}
+
+.btnJ1{
+width:60%;
+}
+
+.btnJ2{
+width:60%;
+}
+
+.nombreP2{
+border-radius:5px;
+position:relative;
+background-color: rgba(235, 20, 28, 0.4);
+ width:100%;
+ font-size:16px;
+ text-align:center;
+  text-overflow: clip;
+}
+
+.coinCon{
+margin-bottom:10%;
+font-size:40px;
+color:yellow;
+}
+.coinCon2{
+margin-bottom:10%;
+font-size:40px;
+color:yellow;
+}
+
+.numeroP1{
+   width:100%;
+   font-size:65px;
+   text-align:center;
+  margin-bottom:20px;
+}
+
+.numeroP2{
+ width:100%;
+ font-size:65px;
+ text-align:center;
+  margin-bottom:20px;
+}
+
+.btnIniciar{
+  cursor: pointer;
+  position:absolute;
+  width:10%;
+  bottom:0px;
+  text-align: center;
+  color:white;
+  background-color:orange;
+}
+
+.btnIniciar:hover {
+cursor: pointer;
+font-size:15px;
+}
+.heartImg2{
+transform: scaleX(-1);
+}
+
+.botones1{
+cursor: pointer;
+width:250px;
+min-width:250px;
+max-width:250px;
+height:30px;
+color:white;
+font-size:14px;
+
+     height: 60px;
+     min-height:60px;
+     max-height:60px;
+     border: 2px solid #ED1D24;
+     -webkit-transform: skew(20deg);
+     -moz-transform: skew(20deg);
+     -ms-transform: skew(20deg);
+     -o-transform: skew(20deg);
+     transform: skew(20deg);
+}
+
+.botones2{
+cursor: pointer;
+width:250px;
+min-width:250px;
+max-width:250px;
+height:30px;
+color:white;
+font-size:14px;
+     height: 60px;
+     min-height:60px;
+     max-height:60px;
+     border: 2px solid #A6CFE4;
+     -webkit-transform: skew(20deg);
+     -moz-transform: skew(20deg);
+     -ms-transform: skew(20deg);
+     -o-transform: skew(20deg);
+     transform: skew(20deg);
+}
+
+.div{
+font-size:26px;
+width:100%;
+}
+
+.btnPartida{
+height:60px;
+width:180px;
+cursor: pointer;
+font-size:15px;
+font-size:22px;
+color:orange;
+transition:transform 1s ease-in;
+animation:left-to-right 3s ease-in forwards;
+
+}
+
+.btnPartida:hover{
+cursor: pointer;
+color:#90ee90;
+}
+
+.fondoPartida1{
+background-image: url("");
+}
+
+
+@keyframes left-to-right{
+
+50%{
+background-color:black;
+transform:translateX(60%);
+  }
+
+  33%{
+transform:translateX(100%);
+  }
+
+  0%{
+transform:translateX(0%);
+  }
+   110%{
+transform:translateX(50%);
+  }  50%{
+transform:translateX(10%);
+  }
+}
+
+
+
+
+

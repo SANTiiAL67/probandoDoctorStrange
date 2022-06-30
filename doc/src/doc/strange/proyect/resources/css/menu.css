@@ -1,0 +1,15 @@
+.menuItem{
+    -fx-background-color:#e5be01;
+    -fx-background-radius:0;
+    -fx-border-color: #5e2129;
+    -fx-border-width: 2 2 2 2;
+    -fx-background-insets: 0;
+}
+
+
+.menuBackground{
+    -fx-background-image: url("img/bgMenu.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: cover;
+    -fx-background-position: center;
+}

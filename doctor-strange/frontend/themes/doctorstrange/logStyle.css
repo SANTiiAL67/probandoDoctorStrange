@@ -1,0 +1,19 @@
+[part="vaadin-login-submit"] {
+    background-color: #FF5F14;
+    cursor: pointer;
+    color:white;
+}
+
+[part="vaadin-login-native-form-wrapper"] {
+    background-color:transparent;
+    color:white;
+}
+[part="vaadin-login-submit"]:hover {
+    background-color: #8AFF61;
+    color:black;
+    cursor: pointer;
+    color:white;
+}
+.login-view{
+background-color:white;
+}

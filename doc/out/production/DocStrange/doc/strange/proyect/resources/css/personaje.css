@@ -1,0 +1,25 @@
+.bg{
+    -fx-background-image: url("img/bgPersonaje.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-color:#151934;
+    -fx-background-size: contain;
+    -fx-background-position: center;
+    -fx-background-position: 0px 200px;
+}
+
+.btnSuperheroes{
+    -fx-background-color:#e5be01;
+    -fx-background-radius:0;
+}
+
+.btnSuperheroes:hover{
+-fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.3), 10, 0.5, 0.0, 0.0);
+-fx-background-color:#ed1d24;
+-fx-text-fill:white;
+}
+
+.btnSuperheroes:pressed{
+-fx-background-color:#EC1D24;
+-fx-text-fill:white;
+-fx-rotate:2;
+}

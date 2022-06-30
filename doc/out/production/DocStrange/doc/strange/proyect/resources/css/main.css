@@ -1,0 +1,15 @@
+.background{
+    -fx-background-image: url("img/bgMain.jpg");
+    -fx-background-repeat: no-repeat;
+    -fx-background-size: contain;
+    -fx-background-color:black;
+    -fx-background-position: center;
+}
+
+.btn{
+    -fx-background-color:#e5be01;
+    -fx-background-radius:0;
+    -fx-border-color: #5e2129;
+    -fx-border-width: 2 2 2 2;
+    -fx-background-insets: 0;
+}

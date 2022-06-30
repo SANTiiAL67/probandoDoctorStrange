@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.layout.BorderPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.StackPane?>
+<?import javafx.scene.text.Font?>
+
+<StackPane fx:id="parentContainer" prefHeight="402.0" prefWidth="734.0" styleClass="background" stylesheets="@../resources/css/main.css" xmlns="http://javafx.com/javafx/17" xmlns:fx="http://javafx.com/fxml/1" fx:controller="doc.strange.proyect.scene1.MainController">
+   <children>
+      <BorderPane fx:id="anchorRoot" prefHeight="400.0" prefWidth="600.0">
+         <center>
+            <HBox alignment="CENTER" prefHeight="100.0" prefWidth="200.0" BorderPane.alignment="CENTER" />
+         </center>
+         <bottom>
+            <Button fx:id="button" mnemonicParsing="false" onAction="#loadSecond" prefHeight="37.0" prefWidth="217.0" style="-fx-background-color: none;" stylesheets="@../resources/css/main.css" text="PULSA CUALQUIER BOTON" textFill="WHITE" BorderPane.alignment="CENTER">
+               <font>
+                  <Font name="Arial Narrow" size="20.0" />
+               </font>
+               <cursor>
+                  <Cursor fx:constant="HAND" />
+               </cursor>
+               <opaqueInsets>
+                  <Insets />
+               </opaqueInsets>
+            </Button>
+         </bottom>
+      </BorderPane>
+   </children>
+</StackPane>
