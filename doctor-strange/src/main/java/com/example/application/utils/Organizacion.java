@@ -2,7 +2,7 @@ package com.example.application.utils;
 
 
 public class Organizacion{
-    private String nombreOrganizacion;
+   /* private String nombreOrganizacion;
     private ArrayList<String> listaOrganizacion;
 
     public Organizacion(String nombreOrganizacion) {
@@ -60,5 +60,5 @@ public class Organizacion{
 
     public ArrayList<String> getListaOrganizacion() {
         return listaOrganizacion;
-    }
+    }*/
 }
